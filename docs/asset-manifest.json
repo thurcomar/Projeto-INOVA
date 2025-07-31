@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Projeto-INOVA/static/css/main.790d5986.css",
-    "main.js": "/Projeto-INOVA/static/js/main.9b1bc9e9.js",
+    "main.js": "/Projeto-INOVA/static/js/main.4d079f38.js",
     "static/js/453.59b9af16.chunk.js": "/Projeto-INOVA/static/js/453.59b9af16.chunk.js",
     "static/media/fundoprincipal.png": "/Projeto-INOVA/static/media/fundoprincipal.56d6f51189b37a4d6cb8.png",
     "index.html": "/Projeto-INOVA/index.html",
     "main.790d5986.css.map": "/Projeto-INOVA/static/css/main.790d5986.css.map",
-    "main.9b1bc9e9.js.map": "/Projeto-INOVA/static/js/main.9b1bc9e9.js.map",
+    "main.4d079f38.js.map": "/Projeto-INOVA/static/js/main.4d079f38.js.map",
     "453.59b9af16.chunk.js.map": "/Projeto-INOVA/static/js/453.59b9af16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.790d5986.css",
-    "static/js/main.9b1bc9e9.js"
+    "static/js/main.4d079f38.js"
   ]
 }

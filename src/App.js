@@ -46,7 +46,7 @@ function MainContent({ secaoAtiva: secaoInicial = 'inicio' }) {
               <h3 className="subtitulo-equipe">Conheça nosso time de especialistas</h3>
               <div className="membros-equipe">
                 <div className="membro">
-                  <img src="/imagens/equipe1.jpg" alt="Ana Catarina" />
+                  <img src="/Projeto-INOVA/imagens/equipe1.jpg" alt="Ana Catarina" />
                   <h4>Ana Catarina</h4>
                   <div className="redes-sociais">
                     <a href="#"><span className="icone-linkedin"></span></a>
@@ -54,7 +54,7 @@ function MainContent({ secaoAtiva: secaoInicial = 'inicio' }) {
                   </div>
                 </div>
                 <div className="membro">
-                  <img src="/imagens/equipe2.jpg" alt="Ricardo Moura" />
+                  <img src="/Projeto-INOVA/imagens/equipe2.jpg" alt="Ricardo Moura" />
                   <h4>Arthur Renato</h4>
                   <div className="redes-sociais">
                     <a href="#"><span className="icone-linkedin"></span></a>
@@ -144,11 +144,11 @@ case 'brecho':
               <h3 className="subtitulo-galeria">Mais vídeos</h3>
               <div className="lista-videos">
                 <div className="video-miniatura">
-                  <img src="/imagens/thumb1.jpg" alt="Tecnologia Wearable" />
+                  <img src="/Projeto-INOVA/imagens/thumb1.jpg" alt="Tecnologia Wearable" />
                   <div className="titulo-miniatura">Tecnologia Wearable</div>
                 </div>
                 <div className="video-miniatura">
-                  <img src="/imagens/thumb3.jpg" alt="Projetos Recentes" />
+                  <img src="/Projeto-INOVA/imagens/thumb3.jpg" alt="Projetos Recentes" />
                   <div className="titulo-miniatura">Projetos Recentes</div>
                 </div>
               </div>
@@ -195,7 +195,7 @@ case 'brecho':
                 </p>
               </div>
               <div className="imagem-sobre">
-                <img src="/imagens/sobre-nos.jpg" alt="Equipe Vogue Tec" />
+                <img src="/Projeto-INOVA/imagens/sobre-nos.jpg" alt="Equipe Vogue Tec" />
               </div>
             </div>
           </div>
@@ -208,7 +208,7 @@ case 'brecho':
       <header className="cabecalho">
         <div className="container-cabecalho">
           <div className="logo-container">
-            <img src="/imagens/logo-vogue-tec.png" alt="Vogue Tec Logo" className="logo" />
+            <img src="/Projeto-INOVA/imagens/logo-vogue-tec.png" alt="Vogue Tec Logo" className="logo" />
           </div>
 
           <button 
